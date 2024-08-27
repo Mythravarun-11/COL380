@@ -62,3 +62,6 @@ Run subtask4 with streams (1) or without streams (0):
 ```bash
 ./subtask4 0
 ```
+
+
+Problem statement is available here : https://www.cse.iitd.ac.in/~rijurekha/col380_2024/cuda_assignment.html
